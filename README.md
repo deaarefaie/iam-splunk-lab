@@ -78,5 +78,4 @@ index=wineventlog EventCode=4740
 
 ## 🔹 Author
 
-Your Name
 deaa refaie
