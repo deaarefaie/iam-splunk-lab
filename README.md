@@ -44,6 +44,29 @@ index=wineventlog EventCode=4728
 index=wineventlog EventCode=4740
 ```
 
+## 🔹 Screenshots
+
+### Active Directory OU Structure
+
+![AD OU Structure](screenshots/ad-ou-structure.png)
+
+### User Creation (Joiner Scenario)
+
+![User Creation](screenshots/user-creation.png)
+
+### Splunk Detection — User Created (Event 4720)
+
+![Splunk User Created](screenshots/splunk-user-created.png)
+
+### Splunk Universal Forwarder Service
+
+![Forwarder Running](screenshots/forwarder-running.png)
+
+### Splunk Receiving Port (9997)
+
+![Splunk Receiving Port](screenshots/splunk-receiving-port.png)
+
+
 ## 🔹 Skills Demonstrated
 
 * Identity & Access Management (IAM)
